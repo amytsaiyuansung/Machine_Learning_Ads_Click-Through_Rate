@@ -1,11 +1,9 @@
 # Machine_Learning_Ads_Click-Through_Rate
 This project aims to predict click-through rate for online advertising by applying machine learning classification algorithms.
 
-30M+ rows train dataset is splitted into 31 small training data files, each with around 1M rows. 
+Train dataset with 30+ rows of data is splitted into 31 small training data files, each with around 1M rows of data. 
 
-Test data is another file with 13M+ rows of data. 
-
-Percentage of clicks is around 17% in the train data. 
+Test data is another dataset with 13M+ rows of data. 
 
 Classification techniques such as logistic regression, decision trees, random forest, and neural network are applied. 
 
